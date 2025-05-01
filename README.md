@@ -1,4 +1,4 @@
-<h1 align="center"> Ni7i – curious mind in code</h1>
+<h1 align="center"> Ni7i – trying to code sth</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=true&width=600&lines=I+don't+just+write+code...;I+craft+logic%2C+explore+systems...;...and+shape+ideas+into+reality.;I+mean%2C+I+try+it+%F0%9F%98%82" alt="typing animation" />
