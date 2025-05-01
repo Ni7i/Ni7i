@@ -25,18 +25,6 @@
 - Mostly learning by breaking things  
 - Sometimes things work and I pretend it was on purpose  
 - Making small tools and ideas that probably no one will use (but I will!)
-
----
-
-### Currently exploring
-
-> Tailwind CSS – why fight CSS when I can build beautiful layouts faster?
-
-Also thinking a lot about:
-- component-first thinking  
-- the difference between clean code and clever code  
-- automation as a superpower
-
 ---
 
 ### GitHub Stats
@@ -52,6 +40,6 @@ Also thinking a lot about:
   <summary>Bonus Thought</summary>
   <p><i>
     PS: I'm not a big fan of those typical README layouts.  
-    You're still reading? That tells me something about you too.
+    You're still reading? That tells me something about you too. thx
   </i></p>
 </details>
