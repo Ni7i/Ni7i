@@ -1,4 +1,7 @@
-<h1 align="center" style="color: red;">ERROR 404</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=800&color=FF3C3C&center=true&vCenter=true&width=500&lines=ERROR+404" alt="Error 404 Animation" />
+</h1>
+
 
 ---
 
