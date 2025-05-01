@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Ni7i – curious mind in code</h1>
+<h1 align="center"> Ni7i – curious mind in code</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=true&width=600&lines=I+don't+just+write+code...;I+craft+logic%2C+explore+systems...;...and+shape+ideas+into+reality.;I+mean%2C+I+try+it+%F0%9F%98%82" alt="typing animation" />
@@ -8,30 +8,25 @@
 
 ## 👨‍💻 Who am I?
 
-- 🧷 I can write **C#** – but Stack Overflow deserves most of the credit  
-- 🗃️ I use **SQL** – usually with lots of trial and error  
-- 🌐 I know **HTML**, but CSS still makes me question life choices  
-- 🌬️ Currently learning **Tailwind CSS** – because regular CSS wasn’t confusing enough
+-  I can write **C#** – but Stack Overflow deserves most of the credit  
+-  I use **SQL** – usually with lots of trial and error  
+-  I know **HTML**, but CSS still makes me question life choices  
+-  Currently learning **Tailwind CSS** – because regular CSS wasn’t confusing enough
 
 ---
 
 ## 🧠 What I actually do
 
-- 💥 Mostly learning by breaking things  
-- 🧪 Sometimes things work and I pretend it was on purpose  
-- 🧸 Making small tools and ideas that probably no one will use (but I will!)
+-  Mostly learning by breaking things  
+-  Sometimes things work and I pretend it was on purpose  
+-  Making small tools and ideas that probably no one will use (but I will!)
 
 ---
 
 ## 🔍 Currently exploring
 
-> 🎨 `Tailwind CSS` – why fight CSS when I can build beautiful layouts faster?
-
-Also thinking a lot about:
-- 🧱 component-first thinking  
-- 🧼 the difference between clean code and clever code  
-- ⚙️ automation as a superpower  
-
+>  `Tailwind CSS` – why fight CSS when I can build beautiful layouts faster?
+ 
 ---
 
 ## 📬 Let’s connect
