@@ -1,38 +1,42 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF3C3C&center=true&vCenter=true&width=435&lines=ERROR%3A+REAL+DEVELOPER+NOT+FOUND" alt="Error Animation" />
-</h1>
+<h1 align="center" style="color: red;">ERROR 404</h1>
 
 ---
 
-## 👨‍💻 Who am I?
+<h2 align="center">Ni7i – curious mind in code</h2>
 
-- 🧷 I can write **C#** – but Stack Overflow deserves most of the credit  
-- 🗃️ I use **SQL** – usually with lots of trial and error  
-- 🌐 I know **HTML**, but CSS still makes me question life choices  
-- 🌬️ Currently learning **Tailwind CSS** – because regular CSS wasn’t confusing enough
+> „I don't just write code – I craft logic, explore systems, and shape ideas into reality. I mean i try it...:)“
 
 ---
 
-## 🧠 What I actually do
+### Who am I?
 
-- 💥 Mostly learning by breaking things  
-- 🧪 Sometimes things work and I pretend it was on purpose  
-- 🧸 Making small tools and ideas that probably no one will use (but I will!)
+- I can write **C#** – but Stack Overflow deserves most of the credit  
+- I use **SQL** – usually with lots of trial and error  
+- I know **HTML**, but CSS still makes me question life choices  
+- Currently learning **Tailwind CSS** – because regular CSS wasn’t confusing enough
 
 ---
 
-## 🔍 Currently exploring
+### What I actually do
 
-> 🎨 `Tailwind CSS` – why fight CSS when I can build beautiful layouts faster?
+- Mostly learning by breaking things  
+- Sometimes things work and I pretend it was on purpose  
+- Making small tools and ideas that probably no one will use (but I will!)
+
+---
+
+### Currently exploring
+
+> Tailwind CSS – why fight CSS when I can build beautiful layouts faster?
 
 Also thinking a lot about:
-- 🧱 component-first thinking  
-- 🧼 the difference between clean code and clever code  
-- ⚙️ automation as a superpower  
+- component-first thinking  
+- the difference between clean code and clever code  
+- automation as a superpower
 
 ---
 
-## 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ni7i&show_icons=true&theme=tokyonight&hide_title=true" width="48%" />
@@ -42,7 +46,7 @@ Also thinking a lot about:
 ---
 
 <details>
-  <summary><b>💬 Bonus Thought</b></summary>
+  <summary>Bonus Thought</summary>
   <p><i>
     PS: I'm not a big fan of those typical README layouts.  
     You're still reading? That tells me something about you too.
