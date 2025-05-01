@@ -16,18 +16,18 @@
 
 ### Who am I?
 
-- I can write <strong>C#</strong> – but Stack Overflow deserves most of the credit  
-- I use <strong>SQL</strong> – usually with lots of trial and error  
-- I know <strong>HTML</strong>, but CSS still makes me question life choices  
-- Currently learning <strong>Tailwind CSS</strong> – because regular CSS wasn’t confusing enough
+<p>I can write <strong>C#</strong> – but Stack Overflow deserves most of the credit</p>
+<p>I use <strong>SQL</strong> – usually with lots of trial and error</p>
+<p>I know <strong>HTML</strong>, but CSS still makes me question life choices</p>
+<p>Currently learning <strong>Tailwind CSS</strong> – because regular CSS wasn’t confusing enough</p>
 
 ---
 
 ### What I actually do
 
-- Mostly learning by breaking things  
-- Sometimes things work and I pretend it was on purpose  
-- Making small tools and ideas that probably no one will use (but I will!)
+<p>Mostly learning by breaking things</p>
+<p>Sometimes things work and I pretend it was on purpose</p>
+<p>Making small tools and ideas that probably no one will use (but I will!)</p>
 
 ---
 
@@ -41,7 +41,7 @@
 ---
 
 <details>
-  <summary><strong>Bonus Thought</strong></summary>
+  <summary>Bonus Thought</summary>
   <p><i>
     PS: I'm not a big fan of those typical README layouts.  
     You're still reading? That tells me something about you too. thx
