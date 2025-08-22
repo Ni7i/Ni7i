@@ -44,9 +44,7 @@
 <details>
   <summary>Bonus Thought</summary>
   <p><i>
-    PS: I'm not a big fan of those typical README layouts.  
-    You're still reading? That tells me something about you too. thx
-
+    Coding saves lives
   </i></p>
 </details>
 
