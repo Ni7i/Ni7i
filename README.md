@@ -20,6 +20,7 @@
 <p>I use <strong>SQL</strong> – usually with lots of trial and error</p>
 <p>I know <strong>HTML</strong>, but CSS still makes me question life choices</p>
 <p>Currently learning <strong>Tailwind CSS</strong> – because regular CSS wasn’t confusing enough</p>
+<p>I catch myself showing love for python, hope i'm gonna be a py dev soon</p>
 
 ---
 
