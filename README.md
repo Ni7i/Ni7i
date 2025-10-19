@@ -39,9 +39,34 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ni7i&layout=compact&theme=tokyonight" width="48%" />
 </div>
 
-### ⏱️ WakaTime Stats
+name: Update WakaTime Stats
 
-[![wakatime](https://wakatime.com/badge/user/Ni7i.svg)](https://wakatime.com/@Ni7i)
+on:
+  schedule:
+    - cron: '0 0 * * *' # läuft täglich um Mitternacht
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_EDITORS: "True"
+          SHOW_TIMEZONE: "False"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_UPDATED_DATE: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "True"
+
 
 
 
