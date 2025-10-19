@@ -40,7 +40,7 @@
 </div>
 
 ###  WakaTime Stats
-[![wakatime](https://wakatime.com/badge/user/<DEIN-USER-ID>.svg)](https://wakatime.com/@<DEIN-USER-ID>)
+[![wakatime](https://wakatime.com/badge/user/<Ni7i>.svg)](https://wakatime.com/@<Ni7i>)
 
 
 ---
