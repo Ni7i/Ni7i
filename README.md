@@ -39,8 +39,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ni7i&layout=compact&theme=tokyonight" width="48%" />
 </div>
 
-###  WakaTime Stats
-[![wakatime](https://wakatime.com/badge/user/<Ni7i>.svg)](https://wakatime.com/@<Ni7i>)
+### ⏱️ WakaTime Stats
+
+[![wakatime](https://wakatime.com/badge/user/Ni7i.svg)](https://wakatime.com/@Ni7i)
+
 
 
 ---
