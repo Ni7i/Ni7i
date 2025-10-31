@@ -9,12 +9,9 @@
 <div align="center" style="max-width: 800px; margin: auto; background-color: #1e1e1e; color: #f0f0f0; padding: 30px; border-radius: 12px; box-shadow: 0 0 15px rgba(255, 255, 255, 0.1); font-family: 'Fira Code', monospace;">
 
 <blockquote>
-  „I don't just write code – I craft logic, explore systems, and shape ideas into reality. I mean i try it... :)“
-</blockquote>
+just start coding</blockquote>
 
----
 
-<p>just start coding  </p>
 
 ### GitHub Stats
 
