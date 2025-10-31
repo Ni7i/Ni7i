@@ -40,8 +40,7 @@
 </div>
 
 ### 🕒 Coding Activity
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ni7i&layout=compact&theme=transparent)
-
+<a href="https://wakatime.com/@292d7a0b-e3a0-4c49-8ce4-039518824561"><img src="https://wakatime.com/badge/user/292d7a0b-e3a0-4c49-8ce4-039518824561.svg" alt="Total time coded since May 1 2025" /></a>
 
 
 
