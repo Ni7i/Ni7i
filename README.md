@@ -13,7 +13,7 @@
 </pre>
 </h3>
 
-<p><i>Ni7i — cold geometry in code</i></p>
+<p><i>Ni7i - developer</i></p>
 
 <br>
 
@@ -35,24 +35,12 @@
 <br><br>
 
 <h3>⚡ Stack (monochrome)</h3>
-<img src="https://skillicons.dev/icons?i=cs,js,ts,react,nodejs,dotnet,git,github,vscode,docker&theme=light" />
 
+<img src="https://skillicons.dev/icons?i=cs,ts,react,nodejs,dotnet,git,github,vscode,docker,linux,aws,postman,mongodb,sqlite,bash&theme=light" />
 <br><br>
 
-<h3>🚀 Projects</h3>
 
 
-<br>
 
-<details>
-  <summary><strong>Bonus Thought</strong></summary>
-  <br>
-  <i>cold code. sharp edges. brutal structure.</i>
-</details>
 
-<br>
 
-<h3>Connect</h3>
-<a href="https://github.com/Ni7i">GitHub</a>
-
-</div>
