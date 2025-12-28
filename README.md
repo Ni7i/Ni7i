@@ -15,9 +15,18 @@
 
 <p><i>Ni7i - developer</i></p>
 
-<br>
+<h3 align="center">CODE STREAM</h3>
 
-<h3> CODE STREAM </h3>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ni7i&show_icons=true&hide_title=true&hide_border=true&theme=dark"
+    width="52%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ni7i&layout=compact&hide_border=true&theme=dark"
+    width="41%"
+  />
+</p>
 
 
 <br>
