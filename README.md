@@ -18,22 +18,23 @@
 <h3 align="center">CODE STREAM</h3>
 
 <p align="center">
-  <!-- GitHub: meistgenutzte Sprachen (nach Repo-Code) -->
+  <img src="https://komarev.com/ghpvc/?username=Ni7i&style=for-the-badge&color=0d1117" alt="Profile views" />
+</p>
+
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ni7i&layout=compact&langs_count=10&hide_border=true&theme=dark&cache_seconds=1800"
-    width="55%"
-    alt="Top Languages"
+    src="https://skillicons.dev/icons?i=cs,ts,react,nodejs,dotnet,git,github,vscode,docker,linux,aws,postman,mongodb,sqlite,bash&perline=8&theme=dark"
+    alt="Tech Stack"
   />
 </p>
 
 <p align="center">
-  <!-- WakaTime: echte Coding-Zeit pro Sprache (wenn WakaTime eingerichtet ist) -->
   <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=292d7a0b-e3a0-4c49-8ce4-039518824561&layout=compact&hide_border=true&theme=dark&cache_seconds=1800"
-    width="55%"
-    alt="WakaTime Stats"
+    src="https://github-profile-trophy.vercel.app/?username=Ni7i&theme=darkhub&no-frame=true&row=1&column=7"
+    alt="Trophies"
   />
 </p>
+
 
 
 <br><br>
