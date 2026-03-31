@@ -33,3 +33,47 @@ async function fetchWithRetry(url, options = {}, retries = MAX_RETRIES) {
 }
 
 module.exports = { fetchWithRetry, DEFAULT_TIMEOUT, MAX_RETRIES };
+
+/**
+ * Build URL with query parameters.
+ */
+function buildUrl(base, params = {}) {
+  const url = new URL(base);
+  Object.entries(params).forEach(([key, value]) => {
+    if (value !== undefined && value !== null) {
+      url.searchParams.append(key, value);
+    }
+  });
+  return url.toString();
+}
+
+/**
+ * Simple request cache with TTL.
+ */
+class RequestCache {
+  constructor(ttl = 60000) {
+    this.cache = new Map();
+    this.ttl = ttl;
+  }
+
+  get(key) {
+    const entry = this.cache.get(key);
+    if (!entry) return null;
+    if (Date.now() - entry.timestamp > this.ttl) {
+      this.cache.delete(key);
+      return null;
+    }
+    return entry.data;
+  }
+
+  set(key, data) {
+    this.cache.set(key, { data, timestamp: Date.now() });
+  }
+
+  clear() {
+    this.cache.clear();
+  }
+}
+
+module.exports.buildUrl = buildUrl;
+module.exports.RequestCache = RequestCache;
