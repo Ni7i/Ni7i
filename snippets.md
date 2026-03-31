@@ -2,6 +2,14 @@
 
 ## C# - String Interpolation
 
+*2026-03-31 12:58*
+
+```csharp
+var msg = $"Found {count} items in {elapsed:F2}ms";
+```
+
+## C# - String Interpolation
+
 *2026-03-31*
 
 ```csharp
