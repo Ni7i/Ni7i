@@ -1,5 +1,9 @@
 # Dev Log
 
+### 2026-03-31 13:11 - Note
+
+Researched new tools for development workflow.
+
 ### 2026-03-31 12:58 - Quote
 
 > *Fix the cause, not the symptom. - Steve Maguire*
