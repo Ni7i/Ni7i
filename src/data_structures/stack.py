@@ -31,3 +31,36 @@ class Stack:
 
     def __repr__(self):
         return f"Stack({self._items})"
+
+def is_balanced_parentheses(expression: str) -> bool:
+    """Check if parentheses in expression are balanced."""
+    stack = Stack()
+    matching = {')': '(', ']': '[', '}': '{'}
+    for char in expression:
+        if char in '([{':
+            stack.push(char)
+        elif char in ')]}':
+            if stack.is_empty() or stack.pop() != matching[char]:
+                return False
+    return stack.is_empty()
+
+
+def evaluate_postfix(expression: str) -> float:
+    """Evaluate a postfix expression."""
+    stack = Stack()
+    operators = {'+', '-', '*', '/'}
+    for token in expression.split():
+        if token in operators:
+            b = stack.pop()
+            a = stack.pop()
+            if token == '+':
+                stack.push(a + b)
+            elif token == '-':
+                stack.push(a - b)
+            elif token == '*':
+                stack.push(a * b)
+            elif token == '/':
+                stack.push(a / b)
+        else:
+            stack.push(float(token))
+    return stack.pop()
