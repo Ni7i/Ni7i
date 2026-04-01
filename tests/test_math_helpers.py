@@ -26,3 +26,22 @@ if __name__ == "__main__":
     test_fibonacci()
     test_is_prime()
     print("All math tests passed!")
+
+def test_gcd():
+    assert gcd(12, 8) == 4
+    assert gcd(17, 13) == 1
+    assert gcd(100, 25) == 25
+    print("gcd: OK")
+
+
+def test_lcm():
+    assert lcm(4, 6) == 12
+    assert lcm(3, 7) == 21
+    print("lcm: OK")
+
+
+def test_factorial():
+    assert factorial(0) == 1
+    assert factorial(5) == 120
+    assert factorial(10) == 3628800
+    print("factorial: OK")
