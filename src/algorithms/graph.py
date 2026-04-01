@@ -35,3 +35,35 @@ class Graph:
                     visited.add(neighbor)
                     queue.append(neighbor)
         return result
+
+def dfs(self, start) -> list:
+    """Depth-first search traversal."""
+    visited = set()
+    result = []
+    self._dfs_recursive(start, visited, result)
+    return result
+
+def _dfs_recursive(self, vertex, visited, result):
+    visited.add(vertex)
+    result.append(vertex)
+    for neighbor, _ in self.adj.get(vertex, []):
+        if neighbor not in visited:
+            self._dfs_recursive(neighbor, visited, result)
+
+def has_path(self, start, end) -> bool:
+    """Check if path exists between start and end."""
+    return end in self.bfs(start)
+
+def shortest_path(self, start, end) -> list:
+    """Find shortest path using BFS (unweighted)."""
+    visited = {start}
+    queue = deque([(start, [start])])
+    while queue:
+        vertex, path = queue.popleft()
+        if vertex == end:
+            return path
+        for neighbor, _ in self.adj.get(vertex, []):
+            if neighbor not in visited:
+                visited.add(neighbor)
+                queue.append((neighbor, path + [neighbor]))
+    return []
