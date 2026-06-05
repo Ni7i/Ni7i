@@ -1,13 +1,67 @@
-# Hey, ich bin Enis
+<h1 align="center">Hey, ich bin Enis 👋</h1>
 
-Informatik-Student aus Baden, Schweiz. Aktuell an der **IMS Kanti Baden**.
+<p align="center">
+  Informatik-Student · Baden, Schweiz · IMS Kanti Baden
+</p>
 
-```
-Languages:    C# · Python · JavaScript · TypeScript · HTML/CSS · SQL
-Frameworks:   .NET · React · Node.js · Express · Spring Boot
-Databases:    MySQL · PostgreSQL · MongoDB
-Tools:        Git · Docker · VS Code · Visual Studio · Linux
-Cloud:        AWS
-```
+<p align="center">
+  <a href="https://github.com/ni7i">
+    <img src="https://komarev.com/ghpvc/?username=ni7i&color=0e75b6&style=flat&label=Profile+Views" alt="profile views" />
+  </a>
+</p>
 
+---
 
+### Über mich
+
+- Studiere Informatik an der **IMS Kanti Baden**
+- Interessiert an Webentwicklung, Backend-Systemen und Cloud-Infrastruktur
+- Immer auf der Suche nach neuen Projekten und Herausforderungen
+
+---
+
+### Tech Stack
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Frameworks & Runtimes**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Tools & Cloud**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ni7i&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni7i&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ni7i&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
