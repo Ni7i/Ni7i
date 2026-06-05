@@ -53,3 +53,86 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
+---
+
+### ICT-Module (EFZ Applikationsentwicklung)
+
+<details>
+<summary><b>Application Engineering</b></summary>
+
+| Modul | Titel |
+|-------|-------|
+| 319 | Applikationen entwerfen und implementieren |
+| 320 | Objektorientiert Programmieren (OOP) |
+| 322 | Benutzerschnittstellen entwerfen und implementieren |
+| 450 | Applikationen testen |
+
+</details>
+
+<details>
+<summary><b>Web Engineering</b></summary>
+
+| Modul | Titel |
+|-------|-------|
+| 293 | Webauftritt erstellen und veröffentlichen |
+| 294 | Frontend einer interaktiven Webapplikation realisieren |
+| 295 | Backend für Applikationen realisieren |
+
+</details>
+
+<details>
+<summary><b>Data Management</b></summary>
+
+| Modul | Titel |
+|-------|-------|
+| 106 | Datenbanken abfragen, bearbeiten und warten |
+| 162 | Daten analysieren und modellieren |
+| 164 | Datenbanken erstellen und Daten einfügen |
+| 165 | NoSQL-Datenbanken einsetzen |
+
+</details>
+
+<details>
+<summary><b>System & Network Management</b></summary>
+
+| Modul | Titel |
+|-------|-------|
+| 117 | Informatik- und Netzinfrastruktur für ein KMU realisieren |
+| 122 | Abläufe mit einer Scriptsprache automatisieren |
+| 187 | ICT-Arbeitsplatz mit Betriebssystem in Betrieb nehmen |
+| 346 | Cloud-Lösungen konzipieren und realisieren |
+| 347 | Dienst mit Container anwenden |
+
+</details>
+
+<details>
+<summary><b>Security / Risk Management</b></summary>
+
+| Modul | Titel |
+|-------|-------|
+| 114 | Codierungs-, Kompressions- und Verschlüsselungsverfahren einsetzen |
+| 231 | Datenschutz und Datensicherheit anwenden |
+
+</details>
+
+<details>
+<summary><b>Project Management & Methodik</b></summary>
+
+| Modul | Titel |
+|-------|-------|
+| 254 | Geschäftsprozesse im eigenen Berufsumfeld beschreiben |
+| 306 | Kleinprojekte im eigenen Berufsumfeld abwickeln |
+| 426 | Software mit agilen Methoden entwickeln |
+| 431 | Aufträge im eigenen Berufsumfeld selbständig durchführen |
+
+</details>
+
+<details>
+<summary><b>Machine Learning</b></summary>
+
+| Modul | Titel |
+|-------|-------|
+| 259 | ICT-Lösungen mit Machine Learning entwickeln |
+
+</details>
+
